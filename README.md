@@ -58,6 +58,6 @@
 ## 📫 Contact
 
 - 📧 Email: plzvet@naver.com  
-- 🌐 Blog/Portfolio: [링크](https://yourportfolio.link)
+- 🌐 Blog/Portfolio: [링크](https://velog.io/@verilog/series/Portfolio)
 
 ---
