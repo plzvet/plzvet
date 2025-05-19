@@ -24,8 +24,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=default" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_ID" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=plzvet&show_icons=true&theme=default" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=plzvet" width="45%" />
 </p>
 
 ---
@@ -33,7 +33,7 @@
 ## 🔝 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plzvet&layout=compact" width="45%">
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ## 🔍 Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_ID&label=Profile+Views" alt="visitor counter"/>
+  <img src="https://komarev.com/ghpvc/?username=plzvet&label=Profile+Views" alt="visitor counter"/>
 </p>
 
 ---
