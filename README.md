@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi! Nice to see you.</h1>
+<h1 align="center">👋 Welcome to Engineer JK's github </h1>
 <p align="center">I'm Jaekwon, an Embedded & System Developer exploring Real-Time Systems and Hardware Acceleration.</p>
 
 <p align="center">
