@@ -58,6 +58,7 @@
 ## 📫 Contact
 
 - 📧 Email: plzvet@naver.com  
-- 🌐 Blog/Portfolio: [링크](https://velog.io/@verilog/series/Portfolio)
+- 🌐 TechBlog  : [링크](https://velog.io/@verilog/series/Portfolio)
+- 🕋 Portfolio : [링크](https://plzvet.notion.site/JAEKWON-PARK-46a4c24194d443cc8e5f59212b82a64e?pvs=74)
 
 ---
