@@ -32,24 +32,30 @@
 
 
 
----
-
 ## 💬 About Me
-<p align="center">
-> 저는 **C 기반의 MCU 제어**, **Verilog 기반의 디지털 설계**, 그리고  
-> **STM32, Arduino, Raspberry Pi를 활용한 임베디드 시스템 개발**에 강점을 가지고 있어요.  
-> 실시간성, 구조적 확장성, 그리고 협업 중심 개발을 추구합니다.  
-> **사람을 위한 기술**을 만드는 개발자로 성장하고 있습니다. 🌱
+
+<div align="center">
+
+<strong>C 기반의 MCU 제어</strong>, <strong>Verilog 기반의 디지털 설계</strong>,<br>
+그리고 <strong>STM32, Arduino, Raspberry Pi</strong>를 활용한 임베디드 시스템 개발에 강점을 가지고 있어요.<br>
+실시간성, 구조적 확장성, 그리고 협업 중심 개발을 추구합니다.<br>
+<strong>사람을 위한 기술</strong>을 만드는 개발자로 성장하고 있습니다. 🌱
+
+</div>
 
 ---
-
-</p>
 
 ## 📫 Contact
-<p align="center">
-- 📧 Email: plzvet@naver.com  
-- 🌐 TechBlog  : [velog](https://velog.io/@verilog/)
-- 🕋 Portfolio : [Notion](https://plzvet.notion.site/JAEKWON-PARK-46a4c24194d443cc8e5f59212b82a64e?pvs=74)
+
+<div align="center">
+
+📧 <strong>Email:</strong> plzvet@naver.com 
+
+🌐 <strong>TechBlog:</strong> <a href="https://velog.io/@verilog/">velog</a>  
+
+🕋 <strong>Portfolio:</strong> <a href="https://plzvet.notion.site/JAEKWON-PARK-46a4c24194d443cc8e5f59212b82a64e?pvs=74">Notion</a>
+
+</div>
 
 ---
-</p>
+
