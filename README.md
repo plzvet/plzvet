@@ -9,6 +9,8 @@
 
 ## 🚀 Tech Stack
 
+<div align="center">
+
 | | Skills |
 |--|--|
 | **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-FA5252?style=flat&logoColor=white) |
@@ -18,7 +20,7 @@
 | **Collaboration** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) |
 | **Libraries** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
 
----
+</div>
 
 ## 📊 GitHub Stats
 
@@ -32,7 +34,7 @@
 ## 🔝 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plzvet&layout=compact&hide=assembly,batchfile,tcl,html&langs_count=3" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plzvet&layout=compact&hide=Javascript,Makefile,assembly,batchfile,tcl,html&langs_count=3" width="45%">
 </p>
 
 ---
@@ -46,18 +48,18 @@
 ---
 
 ## 💬 About Me
-
+<p align="center">
 > 저는 **C 기반의 MCU 제어**, **Verilog 기반의 디지털 설계**, 그리고  
 > **STM32, Arduino, Raspberry Pi를 활용한 임베디드 시스템 개발**에 강점을 가지고 있어요.  
 > 실시간성, 구조적 확장성, 그리고 협업 중심 개발을 추구합니다.  
 > **사람을 위한 기술**을 만드는 개발자로 성장하고 있습니다. 🌱
-
+</p>
 ---
 
 ## 📫 Contact
-
+<p align="center">
 - 📧 Email: plzvet@naver.com  
 - 🌐 TechBlog  : [velog](https://velog.io/@verilog/)
 - 🕋 Portfolio : [Notion](https://plzvet.notion.site/JAEKWON-PARK-46a4c24194d443cc8e5f59212b82a64e?pvs=74)
-
+</p>
 ---
