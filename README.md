@@ -13,7 +13,7 @@
 |--|--|
 | **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-FA5252?style=flat&logoColor=white) |
 | **MCU / SBC** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![ATmega128A](https://img.shields.io/badge/ATmega128A-FF6F00?style=flat) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white) |
-| **IDE & Tools** | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white) ![Atmel Studio](https://img.shields.io/badge/Atmel_Studio-0A0A0A?style=flat) ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-1E63AF?style=flat) |
+| **IDE & Tools** | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Vivado](https://img.shields.io/badge/Vivado-FFB500?style=flat&logo=xilinx&logoColor=black) ![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=flat&logo=intel&logoColor=white) ![Atmel Studio](https://img.shields.io/badge/Atmel_Studio-0D52BF?style=flat) ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-1E63AF?style=flat) |
 | **OS** | ![Windows](https://img.shields.io/badge/Windows10-0078D6?style=flat&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) |
 | **Collaboration** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) |
 | **Libraries** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
@@ -32,7 +32,7 @@
 ## 🔝 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plzvet&layout=compact" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plzvet&layout=compact&hide=assembly,batchfile,tcl,html&langs_count=3" width="45%">
 </p>
 
 ---
